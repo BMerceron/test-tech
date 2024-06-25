@@ -7,7 +7,8 @@
 import React, { // ******** , // ******** } from 'react';
 
 const DataFetchingComponent = () => {
-// *********
+
+    // *********
 
   if (loading) {
     return <div>Loading...</div>;
